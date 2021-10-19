@@ -12,7 +12,7 @@ class CreateMessageService {
         user: true
       }
     })
-    
+
     return message
   }
 }
